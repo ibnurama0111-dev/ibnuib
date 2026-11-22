@@ -1,0 +1,6 @@
+{
+  "name": "PustakaLoka — Pengecekan Barang Toko Buku",
+  "description": "Aplikasi pengecekan barang, pemindaian ISBN/SKU, pemeriksaan kondisi fisik, dan stock opname untuk operasional toko buku.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
